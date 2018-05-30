@@ -12,4 +12,4 @@ install:
 - dotnet restore
 
 script:
-- dotnet test Octave.NET.Tests -v q
+- dotnet test Octave.NET.Tests
